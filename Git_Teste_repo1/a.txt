@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Enviando alterações para o clone.
+=======
+<<<<<<< HEAD
+Enviando alterações para o clone
+teste branch
+=======
+Enviando alterações para o clone.
+>>>>>>> 127fa347e2b3ba22b730182a03d2e568a99ccebc
+>>>>>>> a148a9d24da5889ee33eb4c7294a7bd34df6bf7b
