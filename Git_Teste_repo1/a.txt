@@ -11,3 +11,4 @@ Enviando alterações para o clone.
 enviando 
 a funcionalidade 
 x
+enviando funcionalidade b
